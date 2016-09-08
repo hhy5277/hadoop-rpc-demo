@@ -1,0 +1,14 @@
+[DEBUG] 2016-09-05 10:02:41.347 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:23) RPCClientTest: testHello
+[DEBUG] 2016-09-05 10:34:32.182 [] [] [main] com.ares.hadoop.rpc.HelloServer.main(HelloServer.java:32) Server start to listen on 8888
+[DEBUG] 2016-09-05 10:35:19.938 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:23) RPCClientTest: testHello
+[DEBUG] 2016-09-05 10:47:14.768 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:26) RPCClientTest: testHello
+[DEBUG] 2016-09-05 10:47:50.792 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:26) RPCClientTest: testHello
+[DEBUG] 2016-09-05 10:54:00.424 [] [] [main] com.ares.hadoop.rpc.HelloServer.main(HelloServer.java:32) Server start to listen on 8888
+[DEBUG] 2016-09-05 10:54:17.248 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:26) RPCClientTest: testHello
+[DEBUG] 2016-09-05 10:54:18.094 [] [] [IPC Server handler 0 on 8888] com.ares.hadoop.rpc.HelloServer.helloMethod(HelloServer.java:19) name: JunneYang
+[DEBUG] 2016-09-05 10:54:18.105 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:34) Hello, JunneYang
+[DEBUG] 2016-09-05 10:55:36.972 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:26) RPCClientTest: testHello
+[DEBUG] 2016-09-05 10:55:37.586 [] [] [IPC Server handler 0 on 8888] com.ares.hadoop.rpc.HelloServer.helloMethod(HelloServer.java:19) name: JunneYang
+[DEBUG] 2016-09-05 10:55:37.591 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:34) Hello, JunneYang
+[DEBUG] 2016-09-05 10:55:37.592 [] [] [IPC Server handler 0 on 8888] com.ares.hadoop.rpc.HelloServer.helloMethod(HelloServer.java:19) name: Ares
+[DEBUG] 2016-09-05 10:55:37.593 [] [] [main] com.ares.hadoop.rpc.RPCClientTest.testHello(RPCClientTest.java:36) Hello, Ares
